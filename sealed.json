@@ -1,1 +1,17 @@
-{}
+[
+    {
+        "UserID": 4622743473,
+        "Username": "igotclappedhardinbed",
+        "Reason": "Test ban"
+    },
+    {
+        "UserID": 4622750460,
+        "Username": "sweatysxx_inbed",
+        "Reason": "Test Ban2"
+    },
+    {
+        "UserID": 4622923977,
+        "Username": "cuwm_insideyou",
+        "Reason": "Test Ban3"
+    }
+]
